@@ -44,7 +44,7 @@ Bu sprintte amacımız oyun fikrimizi teknik olarak şekillendirmek ve proje alt
 
 Aşağıda yer alan sprint board ekranı üzerinden görevlerin dağılımı takip edilmiştir:
 
-![Sprint Board](b30d6cf5-6dd0-45d1-b9cd-5ae2d5604f68.png)
+![Sprint Board](assets/sprint-board.jpeg)
 
 | Durum        | Görevler                                  |
 |--------------|--------------------------------------------|
@@ -64,19 +64,16 @@ Aşağıda yer alan sprint board ekranı üzerinden görevlerin dağılımı tak
 ## Görseller
 
 ### Kullanıcı Doğrulama Ekranı
-![Authenticate Screen](f9d0964c-fb1d-4c2f-abac-c9d36a226378.png)
+![Authenticate](assets/authenticate.jpeg)
 
 ### Lobby Oluşturma Ekranı
-![Create Lobby](c1a5fdcb-6a8d-46a2-b9e9-10d01ad241c7.png)
+![Lobi Katılım](assets/create-lobby.jpeg)
 
-### Lobby Listesi (Boş)
-![Lobby List Empty](a5a0b1d8-93cf-427c-8f4b-54da894eef29.png)
+### Lobby Listesi
+![Lobi Liste](assets/lobby-list.jpeg)
 
-### Lobby Listesi (Dolu)
-![Lobby List Joined](98b548cd-5e94-4087-a807-3bc6ff99291e.png)
-
-### Lobby Detayı
-![Lobby Details](c0a40725-75c9-4a14-9516-1f371b7cd79b.png)
+### Lobby Katılım
+![Lobby Katılım](lobby-join.jpeg)
 
 ---
 

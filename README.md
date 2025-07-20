@@ -99,4 +99,7 @@ Hazırlayan: Scrum Master - Rana
 
  Zorlayanlar: Teknik entegrasyonlarda yaşanan ufak gecikmeler.
 
+
  Gelecek Sprint İçin: Bitmemiş işler önceliklendirilip devam edilecek. Görev tamamlama için daha kısa süreli mini hedefler belirlenecek.
+
+
